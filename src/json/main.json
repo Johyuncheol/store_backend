@@ -1,0 +1,213 @@
+{
+    "MainBanner": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        }
+    ],
+    "Popular": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+            
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        }
+    ],
+    "PopularRelated": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        },
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        }
+    ],
+    "Recommend": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        }
+    ],
+    "RecommendRelated": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        },
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        }
+    ],
+    "Sale": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc1" : "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg",
+            "smallImgSrc2" : "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg",
+            "smallImgSrc3" : "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        }
+    ],
+    "SaleRelated": [
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        },
+        {
+            "id": 0,
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/06/21/20/51/tshirt-2428521_1280.jpg"
+        },
+        {
+            "id": 1,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/01/21/17/22/shopping-606993_1280.jpg"
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/13/48/clothes-1834650_1280.jpg"
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://cdn.pixabay.com/photo/2015/08/29/01/18/closet-912694_1280.jpg"
+        }
+    ]
+}
