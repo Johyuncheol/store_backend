@@ -11,4 +11,10 @@ router.get("/", (req: Request, res: Response) => {
   });
 });
 
+router.post("/", (req: Request, res: Response) => {
+  return res.status(201).send({
+    data: shoppingBagData,
+    status: "Success to get main",
+  });
+});
 export default router;

@@ -5,6 +5,7 @@ import detailRouter from "../src/routes/detail";
 import mainRouter from "../src/routes/main";
 import shoppingBagRouter from "../src/routes/shoppingBag";
 import categoryRouter from "../src/routes/category";
+import searchRouter from '../src/routes/search'
 
 const app: Application = express();
 const cors = require("cors");
@@ -32,6 +33,7 @@ app.use("/api/detail", detailRouter);
 app.use("/api/main", mainRouter);
 app.use("/api/shoppingBag", shoppingBagRouter);
 app.use("/api/category", categoryRouter);
+app.use("/api/search", searchRouter);
 
 /////////////////////////////////////
 
